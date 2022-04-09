@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log(9),document.getElementById("root").appendChild(h1)})();

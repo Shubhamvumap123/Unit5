@@ -1,0 +1,32 @@
+body{
+    border: 1px solid blue;
+    margin:auto;
+    width: 30%;
+}
+
+#text{
+    /* margin: auto 500px  ; */
+    /* margin-left:400px; */
+}
+#text>textarea{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   width: 90%;
+   margin:  auto;
+    height: 100px
+}
+#button{
+    border-radius:5px;
+    box-shadow: rgba(36, 168, 0, 0.24) 0px 3px 8px;
+    background-color: rgb(0, 255, 0);
+    height: 30px;
+    width: 100px;
+}
+/* #logo{
+    
+    width: 1px;
+    height: 1px
+} */
+img{
+    height: 500px;
+    width: 400px;
+}
